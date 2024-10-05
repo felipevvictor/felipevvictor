@@ -1,16 +1,44 @@
-## Hi there 👋
+### Hello, I'm Felipe Victor ✌ 
+</br>
 
-<!--
-**felipevvictor/felipevvictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" height="200" width="400" src="https://media1.tenor.com/m/LEt4EGx11lsAAAAC/dog-quality-assurance.gif"/>
+</br>
 
-Here are some ideas to get you started:
+- 🔥 love tecnology
+- 📚 Test Analist/Q.A
+- 🎙 The music is my therapy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>About me</h3><br>
+  <p>I'm a person who seeks to evolve professionally and enter the programming area with a focus on Q.A, I have knowledge in some technologies and wish to learn more and more, I am a dedicated person who seeks a solid professional future</p>
+  </br>
+
+<h3>Skills</h3><br>
+
+<div style="display: inline-block">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />  
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+</div>
+
+##
+<h3>Education</h3><br>
+
+ - 🏫 Graduated in Information Systems at Centro Universitário FAM
+ - 👩‍💻 Always learning new technologies through online courses
+ - 💻 Professional IT course
+ - ⚙ Professional hardware course
+
+##
+<h3>Contact</h3><br>
+
+<div> 
+  <a href="https://dev-instict.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a> 
+  <a href = "mailto:felipe.victor875@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-victor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
