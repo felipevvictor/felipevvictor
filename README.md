@@ -4,7 +4,7 @@
 <img align="center" height="200" width="400" src="https://media1.tenor.com/m/LEt4EGx11lsAAAAC/dog-quality-assurance.gif"/>
 </br>
 
-- 🔥 love tecnology
+- 🔥 I love tecnology
 - 📚 Test Analist/Q.A
 - 🎙 The music is my therapy
 
